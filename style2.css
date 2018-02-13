@@ -1,0 +1,37 @@
+body{
+    background-image: url(images/bg3.jpg);
+}
+.text1{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 100px;
+    color: white;
+    margin-left: 900px;
+}
+.link1{
+    text-decoration: none;
+    font-size: 40;
+    color: white;
+    font-family: sans-serif;
+    
+    
+}
+.wrapper{
+    text-align: center;
+}
+.link{
+    position: absolute;
+    left: 1800px;
+    top: 800px;
+    font-size: 40;
+    text-decoration: none;
+    color: black;
+}
+.wrapper2{
+    text-align: center;
+}
+.link10{
+    text-decoration: none;
+    font-size: 40;
+    color: white;
+    font-family: sans-serif;
